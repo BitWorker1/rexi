@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Debug Rexi",
+        "request": "launch",
+        "mainClass": "work.bit.rexi.App",
+        "projectName": "rexi",
+        "args": ["-h", "localhost", "-d", "1", "-k", "${workspaceFolder}/test.csv", "-f", "${workspaceFolder}/test.dat", "-o", "import"]
+      }
+    ]
+  }
