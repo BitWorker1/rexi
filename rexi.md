@@ -11,7 +11,7 @@ text_input_DC6765E3-11C8-436E-B748-3693F9A8B2BE,hash,MRG,MRG,
 MIXT0001-mxt-form-db-elements,zindex,MRG,MRG,
 
 
-java -jar rexi.jar -o import -h bit.work -p 6378 -d 0 -k DBForms.csv -f DBForms.dat -a 3fWwBtYy7bx8Ba5bN8p5ERC8A5q0EHFj9ulylbnb5ERC8A5BtYy7bx8WwBtYy7bx8Ba5
+java -jar rexi.jar -o import -h bit.work -p 6378 -d 0 -k DBForms.csv -f DBForms.dat -a
 
 
 > cp ./app/build/libs/app.jar ./rexi.jar 
